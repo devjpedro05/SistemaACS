@@ -1,0 +1,25 @@
+# Arquivos e pastas específicos do usuário do Visual Studio
+.vs/
+*.suo
+*.user
+
+# Arquivos de compilação e binários
+[Bb]in/
+[Dd]ebug/
+[Oo]bj/
+[Rr]elease/
+
+# Pacotes do NuGet
+packages/
+*.nupkg
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração de ambiente local que podem conter segredos
+appsettings.Development.json
+secrets.json
+
+# Arquivos do sistema operacional
+Thumbs.db
+.DS_Store
