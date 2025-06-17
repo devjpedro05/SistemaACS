@@ -86,4 +86,4 @@ No momento, este é um projeto pessoal, mas ideias e sugestões são sempre bem-
 
 * **João Pedro**
 * **GitHub:** [@devjpedro05](https://github.com/devjpedro05)
-* **LinkedIn:** [<-- Adicione o link para o seu perfil no LinkedIn aqui! -->]
+* **Instagram** [@dev.jpedro](https://www.instagram.com/dev.jpedro?igsh=MTJrM3YyZnFjNjByNQ==)
