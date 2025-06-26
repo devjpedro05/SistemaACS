@@ -31,10 +31,10 @@ O objetivo principal é fornecer aos profissionais de saúde uma visão clara e 
 Este projeto foi construído com as seguintes tecnologias:
 
 * **Linguagem:** C#
-* **Framework:** .NET [**<-- Ex: .NET 6, .NET Framework 4.8**]
-* **Interface Gráfica:** Windows Forms (WinForms) [**<-- Ou WPF, se for o caso**]
-* **Banco de Dados:** SQL Server [**<-- Ou SQLite, MySQL, etc.**]
-* **ORM:** Entity Framework Core [**<-- Se você estiver usando**]
+* **Framework:** .NET 
+* **Interface Gráfica:** Windows Forms (WinForms)
+* **Banco de Dados:** SQL Server 
+* **ORM:** Entity Framework Core 
 * **IDE:** Visual Studio 2022
 
 ---
